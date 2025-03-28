@@ -118,6 +118,6 @@ xGov Explorer is built with modern web technologies:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/headline-design/xgov-explorer.git
+   git clone https://github.com/Algorand-Developer-Retreat/xgov-explorer.git
    cd xgov-explorer
 
